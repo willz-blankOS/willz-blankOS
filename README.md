@@ -8,7 +8,7 @@ I'm a machine learning enthusiast interested in machine learning systems, roboti
 - Probabilistic modelling and mixture density networks
 - Machine learning infrastructure and experimentation pipelines
 
-## Features Projects
+## Featured Projects
 
 - **Go2 Locomotion Policy:** Reinforcement learning pipelines for Unitree Go2 quadruped locomotion in IsaacLab using JAX and PPO. Includes a custom ZeroMQ communication layer linking the simulator and training processes.
 
