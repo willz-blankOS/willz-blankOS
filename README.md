@@ -10,7 +10,13 @@ I'm a machine learning enthusiast interested in machine learning systems, roboti
 
 ## Features Projects
 
-**Quadruped Locomotion Policy**
-Reinforcement learning pipelines for quadruped locomotion in IsaacLab using JAX and PPO.
-Includes a custom ZeroMQ communication layer linking the simulator and training processes.
+- **Go2 Locomotion Policy:** Reinforcement learning pipelines for Unitree Go2 quadruped locomotion in IsaacLab using JAX and PPO. Includes a custom ZeroMQ communication layer linking the simulator and training processes.
 
+- **CLIP-Flax:** Library for importing CLIP weights from PyTorch into JAX/Flax NNX with numerical verification.
+
+## Interests
+I’m particularly interested in problems that involve reasoning under uncertainty and building systems where learning algorithms interact with complex environments.
+
+## Contact
+- Email: williams.edi012@gmail.com
+- LinkedIn: https://linkedin.com/in/williams-edi
