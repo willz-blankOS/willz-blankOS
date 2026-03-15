@@ -14,8 +14,8 @@ I'm a machine learning enthusiast interested in machine learning systems, roboti
 
 - **CLIP-Flax:** Library for importing CLIP weights from PyTorch into JAX/Flax NNX with numerical verification.
 
-## Interests
-I’m particularly interested in problems that involve reasoning under uncertainty and building systems where learning algorithms interact with complex environments.
+## Research Interests
+- Belief state estimation in POMDPs
 
 ## Contact
 - Email: williams.edi012@gmail.com
