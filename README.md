@@ -15,6 +15,7 @@ I'm a machine learning enthusiast interested in machine learning systems, roboti
 - **CLIP-Flax:** Library for importing CLIP weights from PyTorch into JAX/Flax NNX with numerical verification.
 
 ## Research Interests
+- Hierarchical Reinforcement Learning
 - Belief state estimation in POMDPs
 
 ## Contact
